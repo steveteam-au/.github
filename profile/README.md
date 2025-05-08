@@ -1,12 +1,28 @@
-## Hi there 👋
+# 👋 Hi, we're Steve Team US
 
-<!--
+Welcome to our GitHub profile!  
+We’re a development team based in **New York, USA** 🗽🇺🇸
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 What We Do
+
+- 💻 Full-stack web & app development  
+- ☁️ Cloud infrastructure & automation  
+- 🔐 Security-first solutions  
+- 🧪 Research, innovation, and rapid prototyping
+
+---
+
+## 💡 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+
+---
+
+_Thanks for visiting our profile! ⭐️_
