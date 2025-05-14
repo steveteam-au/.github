@@ -3,8 +3,6 @@
 Welcome to our GitHub profile!
 We’re a development team based in **Sydney, Australia** 🐨🇦🇺
 
-Coding the future in Oceania
-
 ---
 
 ## 🚀 What We Do
@@ -27,3 +25,4 @@ Coding the future in Oceania
 ---
 
 *Thanks for visiting our profile! ⭐️*
+**Coding the future in Oceania**
