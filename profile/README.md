@@ -25,4 +25,4 @@ We’re a development team based in **Sydney, Australia** 🐨🇦🇺
 ---
 
 *Thanks for visiting our profile! ⭐️*  
-**Coding the future in Oceania**
+**Coding the Future in Oceania**
