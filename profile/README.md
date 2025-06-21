@@ -1,7 +1,7 @@
-# 👋 Hi, we're Steve Team JP
+# 👋 Hi, we're Steve Team
 
 Welcome to our GitHub profile!  
-We’re a development team based in **Tokyo, Japan** 🗾🇯🇵
+We’re a development team
 
 ---
 
@@ -25,4 +25,3 @@ We’re a development team based in **Tokyo, Japan** 🗾🇯🇵
 ---
 
 *Thanks for visiting our profile! ⭐️*  
-**Coding the Future from Japan**
